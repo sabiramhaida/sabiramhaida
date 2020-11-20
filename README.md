@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-<!--
-**sabiramhaida/sabiramhaida** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 I am a software engineering student at ENSEEIHT, Toulouse  from Morocco 🇲🇦, Passioante about problem solving  & Algorithms, with a constantly growing love for new technologies.
 <details open>
   <summary><b>I am currently working with</b> 👇</summary>
